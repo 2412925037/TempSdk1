@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\shuxiong\.gradle\wrapper\dists\gradle-2.14.1-all\caches\modules-2\files-2.1\com.jakewharton\butterknife\6.1.0\63735f48b82bcd24cdd33821342428252eb1ca5a\butterknife-6.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="63735f48b82bcd24cdd33821342428252eb1ca5a">
+        <dex dex="D:\TempSdk\app3\build\intermediates\pre-dexed\debug\butterknife-6.1.0_11db8a7b21bd96b8a65f9fc3a702222643abc689.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\TempSdk\app3\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="D:\TempSdk\app3\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_7aa631d35e4da0fbcaf06db8ad1e2e7bdbf4591e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\TempSdk\smsListener\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="60efe93871dbdf5b837e2b6d3e9d25f1f118db0a">
+        <dex dex="D:\TempSdk\smsListener\build\intermediates\pre-dexed\debug\instant-run-bootstrap_77ee03209ef51f8a11ee914e9865877d2e1cbd47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\TempSdk\app\runtime\TempSdkFace.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c6461a1f4aa98c185bb850be678f76b4f8f08202">
+        <dex dex="D:\TempSdk\app\build\intermediates\pre-dexed\debug\TempSdkFace_c43b9b2747c53d8e63d80dbb2d85ec7d9f542139.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\TempSdk\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\TempSdk\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-21.0.3_45a1acef5f4c127a93e904736607085b7f455a52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\TempSdk\smsListener\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="D:\TempSdk\smsListener\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_534af23514b067cd8f54829edd3c46965ee42b5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\TempSdk\smsListener\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="D:\TempSdk\smsListener\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_7127e64ec36bc7534f1ebdfeba956415e4a4ce5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shuxiong\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="D:\TempSdk\smsListener\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_ca606a89c90a81d17faa89094a4d353201f07ad1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\TempSdk\app3\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="12b213a3c421f349e51821c86e5b13d9472c538d">
+        <dex dex="D:\TempSdk\app3\build\intermediates\pre-dexed\debug\instant-run_51e9e34661a9b25bee391f9ded0627864395857c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\TempSdk\smsListener\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="D:\TempSdk\smsListener\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_d8908dc39b9870753798479b93988f1665887460.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\TempSdk\app3\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="D:\TempSdk\app3\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_a5868f21eba7a0d613a2cdba5961a1d198eeb73f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\TempSdk\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\TempSdk\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_010e372ba14bf71a155f3c8704a25f9c0d92b8fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\TempSdk\smsListener\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="D:\TempSdk\smsListener\build\intermediates\pre-dexed\debug\com.android.support-design-23.0.1_ac2e4fa33c74f861e8dd0411e2fd26d9b7de81c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\TempSdk\app3\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="D:\TempSdk\app3\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_09b4fd8260542d0e1be16dbdf0f152d34e7656c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\TempSdk\smsListener\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6c0b00ffccb93337c6dccf337b7b59ae776ee0a0">
+        <dex dex="D:\TempSdk\smsListener\build\intermediates\pre-dexed\debug\instant-run_7581dc5b3327712711e904f0af46bf30dc66bc75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\TempSdk\app3\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="D:\TempSdk\app3\build\intermediates\pre-dexed\debug\com.android.support-design-23.0.1_e1ccd2b26d8a938716a33c604a04b7d6083fbb26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\TempSdk\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8c9f0815c988411e4575ce7454e47e6947851efc">
+        <dex dex="D:\TempSdk\app\build\intermediates\pre-dexed\debug\instant-run_9a9bfda09fdf60637251774721797cba5a23fc8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\TempSdk\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="389800f8df8e16f3cce44c5f24a9c8eb8917c282">
+        <dex dex="D:\TempSdk\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_6df51ebcc12423e1c701b4effb7ba6231fb6fe53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shuxiong\.gradle\wrapper\dists\gradle-2.14.1-all\caches\modules-2\files-2.1\com.jakewharton\butterknife\6.1.0\63735f48b82bcd24cdd33821342428252eb1ca5a\butterknife-6.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="63735f48b82bcd24cdd33821342428252eb1ca5a">
+        <dex dex="D:\TempSdk\smsListener\build\intermediates\pre-dexed\debug\butterknife-6.1.0_11db8a7b21bd96b8a65f9fc3a702222643abc689.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\TempSdk\app3\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="749fcc9b478aa15bda8cf4c234b3366cd879973a">
+        <dex dex="D:\TempSdk\app3\build\intermediates\pre-dexed\debug\instant-run-bootstrap_11086f52049b3ed785b5b1c0e3f3cc1cbbf683e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shuxiong\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="D:\TempSdk\app3\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_ca606a89c90a81d17faa89094a4d353201f07ad1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shuxiong\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\TempSdk\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_86c0e6c393a3f9dcfb1047c55aea3c985804847e.jar" />
+    </item>
+
+</items>
